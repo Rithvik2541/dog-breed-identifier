@@ -78,8 +78,4 @@ project-folder/
 - Dataset from [Kaggle](https://www.kaggle.com/c/dog-breed-identification)
 - TensorFlow, Hugging Face, and the open-source community.
 
----
-
-## 📧 Contact
-For any queries, reach out to **Rithvik** at: [your-email@example.com]
 
