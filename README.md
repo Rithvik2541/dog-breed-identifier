@@ -72,22 +72,7 @@ project-folder/
 
 ---
 
-## 💡 Future Enhancements
-- 🐕 Add more breeds for classification.
-- 🌐 Deploy a web-based interface.
-- 📱 Create a mobile-friendly application.
 
----
-
-## 🖍️ License
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
----
 
 ## 🌐 Acknowledgments
 - Dataset from [Kaggle](https://www.kaggle.com/c/dog-breed-identification)
