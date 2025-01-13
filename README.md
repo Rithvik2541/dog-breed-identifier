@@ -77,5 +77,6 @@ project-folder/
 ## 🌐 Acknowledgments
 - Dataset from [Kaggle](https://www.kaggle.com/c/dog-breed-identification)
 - TensorFlow, Hugging Face, and the open-source community.
+- Special thanks to the Udemy course that provided comprehensive insights into machine learning with scikit-learn.
 
 
